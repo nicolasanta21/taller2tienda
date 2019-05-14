@@ -1,0 +1,142 @@
+[
+    {
+        "nombre" : "ENTRADA_EXPRESS",
+        "url" : "Imagenes/T2/MOVIL/e (1).png",
+        "precio" : 20000,
+        "tipo" : "ENTRADA",
+        "estilo" : "GHOST"
+    },
+    {
+        "nombre" : "ENTRADA_VIP",
+        "url" : "Imagenes/T2/MOVIL/e (2).png",
+        "precio" : 30000,
+        "tipo" : "ENTRADA",
+        "estilo" : "GHOST"
+    },
+    {
+        "nombre" : "ENTRADA_GOLD",
+        "url" : "Imagenes/T2/MOVIL/e (3).png",
+        "precio" : 50000,
+        "tipo" : "ENTRADA",
+        "estilo" : "DARK"
+    },
+    {
+        "nombre" : "ENTRADA_PLATINUM",
+        "url" : "Imagenes/T2/MOVIL/e (4).png",
+        "precio" : 90000,
+        "tipo" : "ENTRADA",
+        "estilo" : "DARK"
+    },
+    {
+        "nombre" : "CALABAZA",
+        "url" : "Imagenes/T2/MOVIL/p (1).png",
+        "precio" : 80000,
+        "tipo" : "DISFRAZ",
+        "estilo" : "HORROR"
+    },
+    {
+        "nombre" : "MONJA",
+        "url" : "Imagenes/T2/MOVIL/p (2).png",
+        "precio" : 50000,
+        "tipo" : "DISFRAZ",
+        "estilo" : "HORROR"
+    },
+    {
+        "nombre" : "BRUJA",
+        "url" : "Imagenes/T2/MOVIL/p (3).png",
+        "precio" : 40000,
+        "tipo" : "MASCARA",
+        "estilo" : "GHOST"
+    },
+    {
+        "nombre" : "DESTRIPADOR",
+        "url" : "Imagenes/T2/MOVIL/p (4).png",
+        "precio" : 60000,
+        "tipo" : "MASCARA",
+        "estilo" : "HORROR"
+    },
+    {
+        "nombre" : "ABUELA",
+        "url" : "Imagenes/T2/MOVIL/p (5).png",
+        "precio" : 70000,
+        "tipo" : "MASCARA",
+        "estilo" : "DARK"
+    },
+    {
+        "nombre" : "PAYASO",
+        "url" : "Imagenes/T2/MOVIL/p (6).png",
+        "precio" : 40000,
+        "tipo" : "MASCARA",
+        "estilo" : "HORROR"
+    },
+    {
+        "nombre" : "PURGE",
+        "url" : "Imagenes/T2/MOVIL/p (7).png",
+        "precio" : 40000,
+        "tipo" : "MASCARA",
+        "estilo" : "GHOST"
+    },
+    {
+        "nombre" : "DESCUARTIZADOR",
+        "url" : "Imagenes/T2/MOVIL/p (8).png",
+        "precio" : 90000,
+        "tipo" : "DISFRAZ",
+        "estilo" : "DARK"
+    },
+    {
+        "nombre" : "ZOMBIE",
+        "url" : "Imagenes/T2/MOVIL/p (9).png",
+        "precio" : 200000,
+        "tipo" : "DISFRAZ",
+        "estilo" : "HORROR"
+    },
+    {
+        "nombre" : "ENSTEIN",
+        "url" : "Imagenes/T2/MOVIL/p (10).png",
+        "precio" : 80000,
+        "tipo" : "MASCARA",
+        "estilo" : "HORROR"
+    },
+    {
+        "nombre" : "SAW",
+        "url" : "Imagenes/T2/MOVIL/p (11).png",
+        "precio" : 50000,
+        "tipo" : "MASCARA",
+        "estilo" : "GHOST"
+    },
+    {
+        "nombre" : "ABUELO",
+        "url" : "Imagenes/T2/MOVIL/p (12).png",
+        "precio" : 20000,
+        "tipo" : "MASCARA",
+        "estilo" : "GHOST"
+    },
+    {
+        "nombre" : "ZOMBIER",
+        "url" : "Imagenes/T2/MOVIL/p (13).png",
+        "precio" : 70000,
+        "tipo" : "DISFRAZ",
+        "estilo" : "DARK"
+    },
+    {
+        "nombre" : "MUERTE",
+        "url" : "Imagenes/T2/MOVIL/p (14).png",
+        "precio" : 90000,
+        "tipo" : "DISFRAZ",
+        "estilo" : "HORROR"
+    },
+    {
+        "nombre" : "INFECTION",
+        "url" : "Imagenes/T2/MOVIL/p (15).png",
+        "precio" : 80000,
+        "tipo" : "DISFRAZ",
+        "estilo" : "GHOST"
+    },
+    {
+        "nombre" : "PANDA",
+        "url" : "Imagenes/T2/MOVIL/p (16).png",
+        "precio" : 30000,
+        "tipo" : "DISFRAZ",
+        "estilo" : "DARK"
+    }
+]
